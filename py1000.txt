@@ -1,0 +1,12 @@
+Query: how_many_invoices, Total Time: 0.02s, Average Time: 0.0000s
+Query: list_invoices, Total Time: 0.02s, Average Time: 0.0000s
+Query: how_many_customers, Total Time: 0.02s, Average Time: 0.0000s
+Query: list_customers, Total Time: 0.03s, Average Time: 0.0000s
+Query: vendors_in_tennessee, Total Time: 0.02s, Average Time: 0.0000s
+Query: most_expensive_product, Total Time: 0.03s, Average Time: 0.0000s
+Query: products_with_discount, Total Time: 0.03s, Average Time: 0.0000s
+Query: vendor_products, Total Time: 0.07s, Average Time: 0.0001s
+Query: discounted_price_georgia, Total Time: 0.05s, Average Time: 0.0000s
+Query: products_on_hand, Total Time: 0.09s, Average Time: 0.0001s
+Query: customer_purchases, Total Time: 0.10s, Average Time: 0.0001s
+Query: customers_without_purchases, Total Time: 0.04s, Average Time: 0.0000s
